@@ -4,3 +4,5 @@ This project consists of different classes and is a console-based application. W
 3. Deposit
 4. Transfer
 5. Quit
+
+Softwares/Technologies Used: Visual Studio Code, Java 8
