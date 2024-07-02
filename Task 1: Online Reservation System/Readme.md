@@ -5,4 +5,4 @@ There are following modules:
 2. Reservation Form
 3. Cancellation (Deletion Form)
 
-Softwares/Technologies Used: Java 8, NetBeans 8.2 RC
+Softwares/Technologies Used: Java 8, NetBeans 8.2 RC, Xampp Server v8.1.25
